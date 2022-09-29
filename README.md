@@ -1,0 +1,1 @@
+# react-native-notes-saves-local-data
